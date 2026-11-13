@@ -1,5 +1,5 @@
 
-## 1. Webshopdatabase
+## Webshopdatabase
 
 | Vraag | Antwoord |
 |---|---|
